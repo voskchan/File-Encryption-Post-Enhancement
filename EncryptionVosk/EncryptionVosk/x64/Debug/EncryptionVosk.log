@@ -1,0 +1,8 @@
+﻿  Encryption.cpp
+C:\Users\ChaCha\Documents\CS405\EncryptionVosk\EncryptionVosk\Encryption.cpp(153,72): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\ChaCha\Documents\CS405\EncryptionVosk\EncryptionVosk\Encryption.cpp(153,72): warning C4267:         with
+C:\Users\ChaCha\Documents\CS405\EncryptionVosk\EncryptionVosk\Encryption.cpp(153,72): warning C4267:         [
+C:\Users\ChaCha\Documents\CS405\EncryptionVosk\EncryptionVosk\Encryption.cpp(153,72): warning C4267:             _Ty=int
+C:\Users\ChaCha\Documents\CS405\EncryptionVosk\EncryptionVosk\Encryption.cpp(153,72): warning C4267:         ]
+C:\Users\ChaCha\Documents\CS405\EncryptionVosk\EncryptionVosk\Encryption.cpp(190,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  EncryptionVosk.vcxproj -> C:\Users\ChaCha\Documents\CS405\EncryptionVosk\EncryptionVosk\x64\Debug\EncryptionVosk.exe

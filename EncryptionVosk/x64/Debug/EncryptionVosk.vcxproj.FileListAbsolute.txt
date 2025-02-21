@@ -1,0 +1,2 @@
+C:\Users\ChaCha\source\repos\EncryptionVosk\x64\Debug\EncryptionVosk.exe
+C:\Users\ChaCha\Documents\CS405\EncryptionVosk\EncryptionVosk\x64\Debug\EncryptionVosk.exe
